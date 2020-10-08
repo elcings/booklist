@@ -2,40 +2,40 @@
   "booklist": [
     {
  
-      "name": "Book1"
-	  "author":"Elcin1"
-	  "description":"Bir göyçək, balaca qız var idi. Qızın adı olsa da, başına həmişə qırmızı papaq qoyduğundan, ona “Qırmızıpapaq” deyərdilər."
+      "name" : "Book1",
+	  "author" : "Elcin1",
+	  "description" : "Bir göyçək, balaca qız var idi. Qızın adı olsa da, başına həmişə qırmızı papaq qoyduğundan, ona deyərdilər."
     },
 	{
  
-      "name": "Book1"
-	  "author":"Elcin1"
-	  "description":"Bir göyçək, balaca qız var idi. Qızın adı olsa da, başına həmişə qırmızı papaq qoyduğundan, ona “Qırmızıpapaq” deyərdilər."
+      "name" : "Book2",
+	  "author" : "Elcin2",
+	  "description" : "Bir göyçək, balaca qız var idi. Qızın adı olsa da, başına həmişə qırmızı papaq qoyduğundan, ona deyərdilər."
     },
 	{
  
-      "name": "Book1"
-	  "author":"Elcin1"
-	  "description":"Bir göyçək, balaca qız var idi. Qızın adı olsa da, başına həmişə qırmızı papaq qoyduğundan, ona “Qırmızıpapaq” deyərdilər."
+      "name": "Book3",
+	  "author":"Elcin3",
+	  "description":"Bir göyçək, balaca qız var idi. Qızın adı olsa da, başına həmişə qırmızı papaq qoyduğundan, ona  deyərdilər."
     },
 	{
  
-      "name": "Book1"
-	  "author":"Elcin1"
-	  "description":"Bir göyçək, balaca qız var idi. Qızın adı olsa da, başına həmişə qırmızı papaq qoyduğundan, ona “Qırmızıpapaq” deyərdilər."
+      "name": "Book4",
+	  "author":"Elcin5",
+	  "description":"Bir göyçək, balaca qız var idi. Qızın adı olsa da, başına həmişə qırmızı papaq qoyduğundan, ona  deyərdilər."
     },
 	{
  
-      "name": "Book1"
-	  "author":"Elcin1"
-	  "description":"Bir göyçək, balaca qız var idi. Qızın adı olsa da, başına həmişə qırmızı papaq qoyduğundan, ona “Qırmızıpapaq” deyərdilər."
+      "name": "Book6",
+	  "author":"Elcin6",
+	  "description":"Bir göyçək, balaca qız var idi. Qızın adı olsa da, başına həmişə qırmızı papaq qoyduğundan, ona  deyərdilər."
     },
 	{
  
-      "name": "Book1"
-	  "author":"Elcin1"
-	  "description":"Bir göyçək, balaca qız var idi. Qızın adı olsa da, başına həmişə qırmızı papaq qoyduğundan, ona “Qırmızıpapaq” deyərdilər."
-    },
-  ]
+      "name": "Book7",
+	  "author":"Elcin7",
+	  "description":"Bir göyçək, balaca qız var idi. Qızın adı olsa da, başına həmişə qırmızı papaq qoyduğundan, ona  deyərdilər."
+    }
+]
   
 }
